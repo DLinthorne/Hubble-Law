@@ -1,3 +1,3 @@
 # Hubble-Law
 
-<img src="Figs/fitscoord.png" alt="fits image with coordinate change" width="200"/>
+<img src="Figs/fitscoord.png" alt="fits image with coordinate change" width="300"/>
